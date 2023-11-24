@@ -1,1 +1,1 @@
-pymodbus==1.5.2
+pymodbus<=1.5.2
